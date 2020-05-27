@@ -1,0 +1,11 @@
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\bin\Debug\netcoreapp2.1\Lab8-2-4.deps.json
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\bin\Debug\netcoreapp2.1\Lab8-2-4.runtimeconfig.json
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\bin\Debug\netcoreapp2.1\Lab8-2-4.runtimeconfig.dev.json
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\bin\Debug\netcoreapp2.1\Lab8-2-4.dll
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\bin\Debug\netcoreapp2.1\Lab8-2-4.pdb
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\obj\Debug\netcoreapp2.1\Lab8-2-4.csprojAssemblyReference.cache
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\obj\Debug\netcoreapp2.1\Lab8-2-4.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\obj\Debug\netcoreapp2.1\Lab8-2-4.AssemblyInfoInputs.cache
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\obj\Debug\netcoreapp2.1\Lab8-2-4.AssemblyInfo.cs
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\obj\Debug\netcoreapp2.1\Lab8-2-4.dll
+C:\Users\N\Desktop\Технологии программирования\Lab8-2-4\obj\Debug\netcoreapp2.1\Lab8-2-4.pdb
